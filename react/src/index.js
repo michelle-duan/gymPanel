@@ -1,3 +1,4 @@
+//I think in the signup page, when members fill out their date of birth information, you can pull up a calendar instead asking them to fill out the table, so that you can make sure their input is in the correct format.
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
