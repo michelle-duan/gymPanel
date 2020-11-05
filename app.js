@@ -1,3 +1,4 @@
+//peer review comment: Overall, I think it is a pretty polished and well-designed mern stack project. I like that you not only realized the mern technologies, but have a pretty good interface that does feel like a gym website.
 // initialize some required modules and criteria
 const express = require("express");
 const mainController = require("./controller/mainController");
