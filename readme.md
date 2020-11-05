@@ -1,3 +1,4 @@
+//I think if your homepage can be a landing page talking about the gym instead of prompting them to login/out, it would be better. But overall, I really like your project!
 ## SF Gym Club
 <a href="https://youtu.be/9Ul97YAKMmA">Youtube Demo</a><br/>
 <a href="https://polar-temple-47959.herokuapp.com/">Website</a>
