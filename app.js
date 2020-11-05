@@ -1,3 +1,4 @@
+//I think you have a pretty clean and easy to understand backend, and as your entry point is app.js, it makes deploying to heroku easier.
 // initialize some required modules and criteria
 const express = require("express");
 const mainController = require("./controller/mainController");
